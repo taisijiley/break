@@ -5,7 +5,7 @@ int main()
 {
 	for (int i = 0; i <= 10; i++)
 	{
-		cout << " ×èñëî ðàâíî = " << i << endl;
+		cout << " Ð§Ð¸ÑÐ»Ð¾ Ñ€Ð°Ð²Ð½Ð¾ = " << i << endl;
 		if (i == 7)
 		{
 			break;
